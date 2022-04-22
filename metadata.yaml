@@ -8,6 +8,9 @@ contributor:
     - Michael, Arthur C.
     gutenberg_agent_id: '36114'
     url: http://www.gutenberg.org/2009/agents/36114
+covers:
+- cover_type: archival
+  image_path: 67642-h/images/cover.jpg
 creator:
   author:
     agent_name: Strang, Herbert
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67642#The-Cruise-of-the-Gyro-Car
 gutenberg_issued: '2022-03-17'
 identifiers:
   gutenberg: '67642'
